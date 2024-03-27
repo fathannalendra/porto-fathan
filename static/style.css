@@ -1,0 +1,61 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #4CDBCA;
+    color: white;
+}
+
+.about {
+    background-color: #00A394;
+    color: white;
+}
+
+body {
+    min-height: 3000px;
+}
+
+.navbar {
+    background-color: #00A394;
+
+}
+
+.education{
+    background-color: #4CDBCA;
+    color: white;
+}
+.project{
+    background-color: #00A394 ;
+    color: white;
+}
+
+.card-edu{
+    height: 300px;
+    width: 100%;
+}
+.card-img-top {
+    height: 200px;
+    width: 100%;
+} 
+
+.contact{
+    background-color:  #4CDBCA;
+    color: white;
+}
+
+
+footer {
+background-color: #00A394;
+color: white;
+font-weight: bold;
+padding-bottom: 5px ;
+}
+
+section{
+    padding-top: 5rem;
+}
